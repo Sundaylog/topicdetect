@@ -1,0 +1,2 @@
+# topicdetect
+使用python及增量聚类算法实现一类新闻话题的关键词检测
